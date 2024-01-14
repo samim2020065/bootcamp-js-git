@@ -1,0 +1,35 @@
+/* h1{background:red;}
+.nure{
+     color:blue
+    font-size 35px;
+    background-color: blueviolet; 
+    border: 5px solid red;
+    padding:20px;
+    margin:100px 70px 30px 10px;
+}
+.btn{
+    border: 1px solid blue;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: orange;
+    color: white;
+}
+.riaz{color:red}
+#main-p-tag{
+    background: yellow;
+} */
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+img{
+    max-width: 100%;
+    box-shadow: 10px 10px coral;
+    border-radius: 50%;
+}
+.resume{
+    border:1px solid coral;
+    padding: 5px;
+    border-radius: 15px;
+}
